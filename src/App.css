@@ -35,8 +35,8 @@ form button[type="button"] {
 }
 
 .img {
-  width: 15rem;
-  height: 5rem;
+  width: 25rem;
+  height: 10rem;
   object-fit: cover;
 }
 .image-grid {
